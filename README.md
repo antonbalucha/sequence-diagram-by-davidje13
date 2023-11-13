@@ -1,3 +1,7 @@
+# Better info on authors personal web page here:
+
+https://sequence.davidje13.com/library.htm
+
 # SVG Sequence Diagram
 
 A tool for creating sequence diagrams from a Domain-Specific Language.
